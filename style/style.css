@@ -1,0 +1,21 @@
+body{
+    background-image: url(C:/Users/user/Documents/Portfolio/image/me2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navbar{
+    padding-left: 99px;
+}
+
+.cont-1{
+    position: relative;
+    padding-top: 80px;
+    padding-left: 100px;
+}
+
+.my-row{
+    max-width: 30vw;
+}
